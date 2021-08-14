@@ -1,0 +1,46 @@
+div {
+  text-align: center;
+}
+
+.bigNumberDisplay {
+  font-size: 6em;
+}
+
+.numbersTable {
+  font-size: 1.6em;
+}
+
+.hidden {
+  color: white;
+}
+
+.selected {
+  background-color: #00d1b1;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table,
+tr,
+td {
+  border-collapse: collapse;
+  border: solid 1px #999;
+  text-align: center;
+}
+
+td {
+  min-width: 100px;
+  color: #fff;
+}
+
+td.selected {
+  /* color: #f00; */
+  background-color: #00d1b1;
+}
+
+.red {
+  color: red;
+}
